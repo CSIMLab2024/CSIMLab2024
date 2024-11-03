@@ -1,5 +1,15 @@
 ## Hello
-
+Welcome to the Computational Subsurface Imaging and Modeling (CSIM) Lab at Jilin University, led by Professor Jing Li, a specialist in high-precision shallow subsurface geophysics. Our lab conducts cutting-edge research across diverse areas, focusing on advancing inversion imaging techniques to address key challenges in environmental monitoring and urban space applications.
+﻿
+Our work spans a variety of applications, including:
+﻿
+Urban Subsurface Monitoring: Leveraging distributed acoustic sensing (DAS) with fiber-optic technology for real-time, high-resolution monitoring in urban spaces.
+Landslide and Fracture Detection: Developing advanced geophysical imaging techniques for accurate detection and monitoring of landslides and subsurface fractures, essential for natural hazard assessment.
+Passive-Source and Environmental Noise Monitoring: Using ambient noise as a passive source for seismic imaging and shallow subsurface characterization, enhancing data quality and reducing costs.
+Hydrological and Seasonal Freeze-Thaw Processes: Employing ground-penetrating radar (GPR) and other geophysical methods to study seasonal hydrological changes, including freeze-thaw cycles that impact soil stability and water flow.
+Our team has made significant contributions to the development of high-resolution inversion techniques and near-surface velocity modeling. Supported by major grants from the National Natural Science Foundation of China and the National Key R&D Program, we have published extensively in top journals like Geophysical Research Letters, Journal of Geophysical Research: Solid Earth, Geophysics, and Geophysical Journal International.
+﻿
+CSIM Lab welcomes collaborations as we continue to push the boundaries of geophysical research for urban infrastructure, environmental sustainability, and hazard resilience.
 
 
 
